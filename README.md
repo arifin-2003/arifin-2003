@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**arifin-2003/arifin-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Arifin 👋
 
-Here are some ideas to get you started:
+B.Tech CSE student passionate about software development, problem solving, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- JavaScript and exploring modern web development
+- Building projects to strengthen my programming fundamentals
+- Improving Git and GitHub skills
+
+### Interests
+- Full-Stack Development
+- Artificial Intelligence & Machine Learning
+- Open Source
+
+
+### My Goal
+To become a full-stack software developer by building practical projects and continuously expanding my technical skills.
+
+### Technologies & Tools
+HTML • CSS • JavaScript • Git • GitHub
+
+---
+
+"Consistency beats intensity. I focus on improving a little every day."
