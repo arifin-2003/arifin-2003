@@ -1,3 +1,4 @@
+<img width="4032" height="1248" alt="image" src="https://github.com/user-attachments/assets/707272ed-49e7-424e-bdd8-7aaaf8be0ed1" />
 
 # Hi, I'm Arifin 👋
 
